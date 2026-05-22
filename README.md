@@ -1,64 +1,73 @@
-# Ciao / Hola - Matteo Stella
+# Matteo Stella
+## Digital Product & UX Operations Specialist
 
-**IT** - Digital Product & UX Operations Specialist - Las Palmas 🇪🇸
-**ES** - Especialista en Product & UX Operations - Las Palmas 🇪🇸
+Analizzo prodotti digitali, individuo attriti e trasformo sistemi complessi in esperienze piu chiare, efficienti e orientate alla conversione.
 
----
-
-## Chi sono / Quién soy
-
-**IT** - Analizzo cosa non funziona, elimino gli attriti e trasformo sistemi in esperienze più chiare e orientate alla crescita.
-
-**ES** - Analizo qué no funciona, elimino fricciones y transformo sistemas en experiencias más claras y orientadas al crecimiento.
+Founder @ [Blackstar Digital Studio](https://blackstardigitalstudio.com) -- Las Palmas de Gran Canaria
 
 ---
 
-## Cosa faccio / Qué hago
+## Cosa faccio
 
-| Area | IT | ES |
-|------|-------|-----|
-| Product Optimization | Analisi attriti UX | Audit de fricciones |
-| AI Workflows | Automazione processi | Automatización |
-| Digital Ecosystems | Web + SEO + Social | Web + SEO + Social |
-| Mobile Products | App Android | App Android |
-| Operations | Gestione operativa | Gestión operativa |
+Non mi limito a costruire prodotti. Cerco dove il prodotto non funziona, capisco perche, e lo sistemo.
 
----
+Anni di gestione operativa reale mi hanno insegnato a vedere i problemi prima che diventino crisi. Quel metodo lo applico al digitale ogni giorno.
 
-## Ecosistemi digitali / Ecosistemas digitales
+- Identifico frizioni UX che nessuno ha ancora nominato
+- - Progetto sistemi digitali orientati al risultato, non all'estetica
+  - - Collego UX, operations e business in un unico ragionamento
+    - - Costruisco workflow AI per automatizzare processi ripetitivi
+      - - Ottimizzo customer journey dalla prima visita alla conversione
+       
+        - ---
 
-| Progetto | Settore / Sector | Stack |
-|----------|-----------------|-------|
-| [Il Raviolo](https://ilraviolo.es) | Ristorazione / Restauración | UX SEO Booking |
-| [Gas Project](https://gasproject.it) | Automotive | Branding Lead gen |
-| [Mundo Imposible](https://mundoimposible.es) | Turismo | Conversion UX |
-| [Kayaman's Farm](https://kayamansfarm.com) | E-commerce | UX Social Google |
-| [La Goloseria](https://lagoloserialagosanto.it) | Food Brand | Local SEO Social |
+        ## Ecosistemi digitali
 
----
+        5 progetti live in produzione per clienti in Italia e Spagna.
+        Ogni progetto e un sistema completo: non solo un sito, ma un ecosistema con UX, SEO, conversione e customer journey.
 
-## App indipendenti / Apps independientes
+        | Progetto | Settore | Focus |
+        |----------|---------|-------|
+        | [Il Raviolo](https://ilraviolo.es) | Ristorazione | UX, SEO, sistema prenotazioni |
+        | [Gas Project](https://gasproject.it) | Automotive | Branding, lead generation |
+        | [Mundo Imposible](https://mundoimposible.es) | Turismo | Conversion UX, mobile-first |
+        | [Kayaman's Farm](https://kayamansfarm.com) | E-commerce | UX, social, Google Business |
+        | [La Goloseria](https://lagoloserialagosanto.it) | Food & Brand | Local SEO, social |
 
-- **Il Ricettario Di Matteo** - AI per ingredienti da video ricette / IA para ingredientes de videos
-- - **Lo Sapevi Che** - Piattaforma gamificata / Plataforma gamificada de curiosidades
-  - - **Un Dia Como Hoy** - Scoperta storica / Descubrimiento historico con notificaciones
-   
-    - ---
+        ---
 
-    ## Stack tecnico / Stack tecnico
+        ## App indipendenti
 
-    Next.js - React - Node.js - TypeScript - Python - AWS - MySQL - Tailwind CSS - Git
+        3 prodotti sviluppati e pubblicati in formato .apk, pronti per il Play Store.
 
-    ---
+        **Il Ricettario Di Matteo** -- Importa video ricette, usa AI per estrarre ingredienti e quantita, organizza in ricettario privato.
 
-    ## Contatti / Contacto
+        **Lo Sapevi Che** -- Piattaforma di curiosita gamificata con livelli, engagement loop e notifiche personalizzate.
 
-    - Sito / Sitio web: https://blackstardigitalstudio.com
-    - - LinkedIn: https://linkedin.com/in/matteo-stella-2783818a
-      - - Portfolio CV: https://blackstardigitalstudio.com/cv/it
-        - - WhatsApp: +34 644 332 485
-         
-          - ---
+        **Un Dia Como Hoy** -- Scoperta storica quotidiana con notifiche intelligenti e filtri per interessi.
 
-          > IT - Trasformo problemi reali in sistemi digitali piu efficienti.
-          > > ES - Transformo problemas reales en sistemas digitales mas eficientes.
+        ---
+
+        ## Stack tecnico
+
+        `Next.js` `React` `Node.js` `TypeScript` `Python` `AWS` `MySQL` `Tailwind CSS` `Git`
+
+        ---
+
+        ## Contatti
+
+        - Sito: [blackstardigitalstudio.com](https://blackstardigitalstudio.com)
+        - - LinkedIn: [linkedin.com/in/matteostella-digital](https://linkedin.com/in/matteostella-digital)
+          - - Portfolio/CV: [blackstardigitalstudio.com/cv/it](https://blackstardigitalstudio.com/cv/it)
+            - - WhatsApp: +34 644 332 485
+             
+              - ---
+
+              ## Version en espanol
+
+              Analizo productos digitales, identifico fricciones y transformo sistemas complejos en experiencias mas claras, eficientes y orientadas a la conversion.
+
+              Especialista en Product Optimization, UX Operations, AI Workflows y Digital Systems. Disponible para trabajo remoto full-time.
+
+              Contacto: matteo@blackstardigitalstudio.com | WhatsApp: +34 644 332 485
+              
