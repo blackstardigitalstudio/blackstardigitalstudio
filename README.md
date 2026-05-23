@@ -57,7 +57,7 @@ Anni di gestione operativa reale mi hanno insegnato a vedere i problemi prima ch
         ## Contatti
 
         - Sito: [blackstardigitalstudio.com](https://blackstardigitalstudio.com)
-        - - LinkedIn: [linkedin.com/in/matteostella-digital](https://linkedin.com/in/matteostella-digital)
+        - - LinkedIn: [linkedin.com/in/matteostella-digital](https://www.linkedin.com/in/matteostella-digital)
           - - Portfolio/CV: [blackstardigitalstudio.com/cv/it](https://blackstardigitalstudio.com/cv/it)
             - - WhatsApp: +34 644 332 485
              
