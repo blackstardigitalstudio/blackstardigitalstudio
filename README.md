@@ -1,72 +1,105 @@
-# Matteo Stella
-## Digital Product & UX Operations Specialist
+# Matteo Stella — Digital Product & UX Operations Specialist
 
-Analizzo prodotti digitali, individuo attriti e trasformo sistemi complessi in esperienze piu chiare, efficienti e orientate alla conversione.
+**I improve digital products, UX flows and operational systems.**
 
-Founder @ [Blackstar Digital Studio](https://blackstardigitalstudio.com) — Las Palmas de Gran Canaria
+I identify friction, simplify user journeys and turn complex processes into clearer, more efficient experiences.
 
----
-
-## Cosa faccio
-
-Non mi limito a costruire prodotti. Cerco dove il prodotto non funziona, capisco perche, e lo sistemo.
-
-Anni di gestione operativa reale mi hanno insegnato a vedere i problemi prima che diventino crisi. Quel metodo lo applico al digitale ogni giorno.
-
-- Identifico frizioni UX che nessuno ha ancora nominato
-- Progetto sistemi digitali orientati al risultato, non all'estetica
-- Collego UX, operations e business in un unico ragionamento
-- Costruisco workflow AI per automatizzare processi ripetitivi
-- Ottimizzo customer journey dalla prima visita alla conversione
+📍 Las Palmas de Gran Canaria, Spain · Available for remote roles
 
 ---
 
-## Ecosistemi digitali
+## What I do
 
-5 progetti live in produzione per clienti in Italia e Spagna.
-Ogni progetto e un sistema completo: non solo un sito, ma un ecosistema con UX, SEO, conversione e customer journey.
+I don't just build products. I find where they're broken, understand why, and fix them.
 
-| Progetto | Settore | Focus |
-|----------|---------|-------|
-| [Il Raviolo](https://ilraviolo.es) | Ristorazione | UX, SEO, sistema prenotazioni |
-| [Gas Project](https://gasproject.it) | Automotive | Branding, lead generation |
-| [Mundo Imposible](https://mundoimposible.es) | Turismo | Conversion UX, mobile-first |
-| [Kayaman's Farm](https://kayamansfarm.com) | E-commerce | UX, social, Google Business |
-| [La Goloseria](https://lagoloserialagosanto.it) | Food & Brand | Local SEO, social |
+Years of real operational management taught me to spot problems before they become crises. I apply that same method to digital every day.
 
----
-
-## App indipendenti
-
-3 prototipi sviluppati come casi studio di prodotto.
-
-**Il Ricettario Di Matteo** — Importa video ricette, usa AI per estrarre ingredienti e quantita, organizza in ricettario privato.
-
-**Lo Sapevi Che** — Piattaforma di curiosita gamificata con livelli, engagement loop e notifiche personalizzate.
-
-**Un Dia Como Hoy** — Scoperta storica quotidiana con notifiche intelligenti e filtri per interessi.
+- 🔍 Identify UX friction nobody has named yet
+- 🏗 Design digital systems oriented toward results, not just aesthetics
+- 🔗 Connect UX, operations and business in a single reasoning
+- 🤖 Build AI workflows to automate repetitive processes
+- 📈 Optimise customer journeys from first visit to conversion
 
 ---
 
-## Stack tecnico
+## Live Digital Ecosystems
+
+5 projects live in production for clients in Italy and Spain. Each one is a complete system — not just a website, but a full ecosystem: UX, SEO, conversion, customer journey.
+
+| Project | Sector | Focus |
+|---|---|---|
+| [Il Raviolo](https://ilraviolo.es) | Restaurant | UX, booking flow, local SEO |
+| [Gas Project](https://gasproject.it) | Digital Studio | Branding, lead generation |
+| [Mundo Imposible](https://mundoimposible.es) | Tourism | Conversion UX, mobile-first |
+| Kayaman's Farm | E-commerce | UX, social, Google Business |
+| La Goloseria | Food & Brand | Local SEO, social |
+
+---
+
+## Independent Digital Products
+
+3 prototypes built as product case studies.
+
+**[Il Ricettario Di Matteo](https://github.com/blackstardigitalstudio/il-ricettario-di)**
+Imports recipe videos from Instagram/Facebook, uses AI to extract ingredients and quantities, organises everything into a private recipe book.
+`AI` `Next.js` `TypeScript` `Mobile`
+
+**[Lo Sapevi Che](https://github.com/blackstardigitalstudio/lo-sapevi-che)**
+Gamified curiosity platform with interests, notifications, levels, progression and daily engagement loop.
+`Python` `Gamification` `Mobile` `EN/IT/ES`
+
+**[Accadde Oggi](https://github.com/blackstardigitalstudio/accadde-oggi)**
+Daily historical events app with smart notifications, interest filters and daily content.
+`TypeScript` `Mobile` `Notifications`
+
+---
+
+## Tech Stack
 
 `Next.js` `React` `Node.js` `TypeScript` `Python` `AWS` `MySQL` `Tailwind CSS` `Git`
 
 ---
 
-## Contatti
+## Roles I'm looking for
 
-- Sito: [blackstardigitalstudio.com](https://blackstardigitalstudio.com)
-- LinkedIn: [linkedin.com/in/matteostella-digital](https://www.linkedin.com/in/matteostella-digital)
-- Portfolio/CV: [blackstardigitalstudio.com/cv/it](https://blackstardigitalstudio.com/cv/it)
-- WhatsApp: +34 644 332 485
+**Product Operations Specialist · UX Operations Specialist · Digital Product Specialist · AI Workflow Specialist · Product Optimization Specialist**
+
+Open to: remote, hybrid, full-time, startup environments.
 
 ---
 
-## Version en espanol
+## Contact
 
-Analizo productos digitales, identifico fricciones y transformo sistemas complejos en experiencias mas claras, eficientes y orientadas a la conversion.
+- 🌐 [blackstardigitalstudio.com](https://blackstardigitalstudio.com)
+- 💼 [Portfolio/CV](https://blackstardigitalstudio.com/cv/en)
+- 🔗 [linkedin.com/in/matteostella-digital](https://linkedin.com/in/matteostella-digital)
+- 📧 matteo@blackstardigitalstudio.com
+- 💬 WhatsApp: +34 644 332 485
 
-Especialista en Product Optimization, UX Operations, AI Workflows y Digital Systems. Disponible para trabajo remoto full-time.
+---
 
-Contacto: matteo@blackstardigitalstudio.com | WhatsApp: +34 644 332 485
+<details>
+<summary>🇮🇹 Versione italiana</summary>
+
+## Cosa faccio
+
+Miglioro prodotti digitali, flussi UX e sistemi operativi individuando attriti, semplificando percorsi utente e trasformando processi complessi in esperienze più chiare ed efficienti.
+
+**Disponibile per ruoli in Product Operations, UX Operations, Digital Product Optimization, AI Workflow e Startup Operations.**
+
+📧 matteo@blackstardigitalstudio.com · 💬 +34 644 332 485
+
+</details>
+
+<details>
+<summary>🇪🇸 Versión en español</summary>
+
+## Qué hago
+
+Mejoro productos digitales, flujos UX y sistemas operativos detectando fricciones, simplificando recorridos de usuario y transformando procesos complejos en experiencias más claras y eficientes.
+
+**Disponible para roles en Product Operations, UX Operations, Digital Product Optimization, AI Workflow y Startup Operations.**
+
+📧 matteo@blackstardigitalstudio.com · 💬 +34 644 332 485
+
+</details>
