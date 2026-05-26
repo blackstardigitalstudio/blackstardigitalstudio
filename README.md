@@ -71,7 +71,7 @@ Open to: remote, hybrid, full-time, startup environments.
 ## Contact
 
 - 🌐 [blackstardigitalstudio.com](https://blackstardigitalstudio.com)
-- 💼 [Portfolio/CV](https://blackstardigitalstudio.com/cv/en)
+- 💼 [Portfolio / CV](https://www.blackstardigitalstudio.com/cv/)
 - 🔗 [linkedin.com/in/matteostella-digital](https://linkedin.com/in/matteostella-digital)
 - 📧 matteo@blackstardigitalstudio.com
 - 💬 WhatsApp: +34 644 332 485
