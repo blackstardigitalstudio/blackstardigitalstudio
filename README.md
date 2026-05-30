@@ -4,7 +4,7 @@
 
 I identify friction, simplify user journeys and turn complex processes into clearer, more efficient experiences.
 
-📍 Las Palmas de Gran Canaria, Spain · Available for remote roles
+📍 Las Palmas de Gran Canaria, Spain · Available for rhemote roles
 
 ---
 
@@ -29,7 +29,7 @@ Years of real operational management taught me to spot problems before they beco
 | Project | Sector | Focus |
 |---|---|---|
 | [Il Raviolo](https://ilraviolo.es) | Restaurant | UX, booking flow, local SEO |
-| [Gas Project](https://gasproject.it) | Digital Studio | Branding, lead generation |
+| [Gas Project](https://gasproject.it) | Automotive / Racing | Positioning, lead generation |
 | [Mundo Imposible](https://mundoimposible.es) | Tourism | Conversion UX, mobile-first |
 | Kayaman's Farm | E-commerce | UX, social, Google Business |
 | La Goloseria | Food & Brand | Local SEO, social |
